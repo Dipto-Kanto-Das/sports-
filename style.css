@@ -1,0 +1,10 @@
+.banner img{
+    height: 85vh;
+}
+.navbar-brand img{
+    width:100px ;
+    height: 100px;
+}
+.footer{
+    background-color: rgb(18, 158, 57);
+}
