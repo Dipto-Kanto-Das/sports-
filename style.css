@@ -8,3 +8,10 @@
 .footer{
     background-color: rgb(18, 158, 57);
 }
+.ration{
+    height: fit-content;
+    width: auto;
+}
+.list ul{
+    list-style-type: style none ;
+}
